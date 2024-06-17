@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let findlength=(str)=>{
+let findLength=(str)=>{
 	let n=str.length;
 	return n;
 }
